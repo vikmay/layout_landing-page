@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Landing page
 
 > ❗❗ You will complete this task in the topic **Landing**.
